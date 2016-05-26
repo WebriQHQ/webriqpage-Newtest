@@ -1,5 +1,5 @@
 ---
-title: CORPORATE VALUES OF WEBRIQ
+title: About
 shortdesc: OUR MISSION
 cmsUserSlug: about-us
 date: 2016-04-07T16:00:00.000Z
